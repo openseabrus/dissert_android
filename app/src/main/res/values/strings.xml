@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dissert</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gmaps">GMaps</string>
+    <string name="mapBoxToken">pk.eyJ1IjoiZ3NlYWJyYSIsImEiOiJjaml5bjRqaTUwY2JyM3ZsdWNtdzV1cGNtIn0.gPNVXDFq1I0xWALOh6U8Kw</string>
+    <string name="automatic_adaptation">Automatic Adaptation</string>
+</resources>
